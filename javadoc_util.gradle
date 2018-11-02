@@ -37,3 +37,4 @@ ext.fixJavadoc = {
     fileset(dir: "${javadocPath}", includes: "**/*.html")
   }
 }
+
